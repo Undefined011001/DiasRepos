@@ -20,5 +20,7 @@ students = cur.fetchall()
 
 for i in students: 
     print(i)
+
+# Что ты здесь ищешь?))))
     
     
